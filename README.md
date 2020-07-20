@@ -11,8 +11,8 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 **Note**: [**Here**](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) is also a collection of research materials for interaction-aware trajectory (behavior) prediction.
 
 ## Path Planning
-- A  Real-Time Motion Planner with Trajectory Optimization for Autonomous Vehicles， 2012， [[paper](https://ieeexplore.ieee.org/document/6225063)]
-- A Review of Motion Planning Techniquesfor Automated Vehicles, 2016, [[paper](https://users.cs.duke.edu/~pdinesh/sources/07339478.pdf)]
+- A  Real-Time Motion Planner with Trajectory Optimization for Autonomous Vehicles，2012，[[paper](https://ieeexplore.ieee.org/document/6225063)]
+- A Review of Motion Planning Techniques for Automated Vehicles, 2016, [[paper](https://users.cs.duke.edu/~pdinesh/sources/07339478.pdf)]
 
 
 
