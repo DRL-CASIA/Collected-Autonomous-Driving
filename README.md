@@ -12,6 +12,7 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 
 ## Path Planning
 - A  Real-Time Motion Planner with Trajectory Optimization for Autonomous Vehicles，2012，[[paper](https://ieeexplore.ieee.org/document/6225063)]
+- Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions, 2015, [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X15003447)]
 - A Review of Motion Planning Techniques for Automated Vehicles, 2016, [[paper](https://users.cs.duke.edu/~pdinesh/sources/07339478.pdf)]
 
 
