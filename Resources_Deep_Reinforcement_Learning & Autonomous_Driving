@@ -1,0 +1,112 @@
+## 深度强化学习与自动驾驶团队汇总
+
+by 张启超 2020-3-2创建，持续维护
+
+### 1. 伯克利MSC实验室，自动驾驶方向
+
+相关度：5星
+
+网址：https://msc.berkeley.edu/research/autonomous-vehicle.html
+
+研究方向：
+
+How to combine conventional and learning-based methodologies for computationally efficient planning and control to achieve theoretical guarantee on stability, feasibility and safety, as well as flexibility to learn from trials and data?
+
+How to enable decision-making and planning under uncertainty with social interactions to achieve non-conservatively defensive driving strategies and persuade others to behave as we expected?
+
+What are good probabilistic predictions for reactions of other road users given our future decision, and how to provide accurate probabilistic and reactive predictions to enable safe decision-making and planning with desirable driving quality in a variety of highly interactive driving scenarios?
+
+How to fuse the information from multiple sensors to enable robust 3D object detection and tracking (with LIDAR and camera) and accurate large-scale mapping and localization (with LIDAR, GPS, IMU and camera)?
+
+BAIR 实验室
+
+https://people.eecs.berkeley.edu/~nrhinehart/
+
+### 2. 新加坡国立大学 David Hsu教授团队
+
+网址：https://www.comp.nus.edu.sg/~dyhsu/
+
+相关度：5星
+
+研究方向：POMDP Planning等
+
+
+### 3. 港科大刘明团队
+
+网址：https://ram-lab.com/page/2/
+
+相关度：5星
+
+研究方向：DRL 和自动驾驶
+
+### 4. Berkeley Deepdrive 
+
+https://deepdrive.berkeley.edu/
+
+https://bair.berkeley.edu/
+
+相关度：5星
+
+研究方向：DRL 和自动驾驶
+
+### 5. wayve
+
+网址：https://wayve.ai/blog/
+
+相关度：5星
+
+研究方向：DRL和自动驾驶
+
+### 6. MIT团队-JONATHAN P. HOW教授
+
+网址：http://www.mit.edu/~jhow/
+http://mfe.mit.edu/
+
+相关度：5星
+
+研究方向：DRL与实车
+
+### 6.2 Stanford Intelligent Systems Laboratory (SISL)
+
+网址：https://mykel.kochenderfer.com/
+
+相关度：5星
+
+研究方向：DRL 交通流 实车
+
+### 6.5 Bolei Zhou
+
+网址：http://bzhou.ie.cuhk.edu.hk/
+
+相关度：4星
+
+### 7. MIT lexfridman
+
+网址：https://lexfridman.com/
+
+相关度：4星
+
+研究方向：CV和自动驾驶
+
+### 8. Mobileye
+
+网址：https://www.mobileye.com/our-technology/driving-policy/
+
+相关度：3星
+
+研究方向：实车
+
+
+### 9. Carla
+
+Felipe Codevilla  https://scholar.google.com.hk/citations?hl=zh-CN&user=NamIygIAAAAJ&view_op=list_works&sortby=pubdate
+
+### 10.nuTonomy 
+
+网址：https://www.aptiv.com/solutions
+
+相关度：3星
+
+研究方向：实车
+
+### 11 Valeo.ai
