@@ -10,6 +10,10 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 
 **Note**: [**Here**](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) is also a collection of research materials for interaction-aware trajectory (behavior) prediction.
 
+## Path Planning
+- A Review of Motion Planning Techniquesfor Automated Vehicles, 2016, [[paper](https://users.cs.duke.edu/~pdinesh/sources/07339478.pdf)]
+
+
 ## RL & IRL & GAIL
 
 - Maximum Entropy Deep Inverse Reinforcement Learning, 2015, [[paper](https://arxiv.org/abs/1507.04888)]
